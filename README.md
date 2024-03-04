@@ -19,7 +19,7 @@ Este projeto é simplesmente um ambiente de anotações, onde o usuário pode in
 Clone o projeto
 
 ```bash
-  git clone https://github.com/ryanwilll/nlw-notes
+  git clone https://github.com/ryanwilll/nlwNotes
 ```
 
 Entre no diretório do projeto
