@@ -44,6 +44,7 @@ Inicie o servidor
 
 - Salvar notas
 - Excluir notas
+- Buscar notas
 - Opção de inserir as notas por texto ou voz
 - Multiplataforma
 
